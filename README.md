@@ -1,6 +1,6 @@
 # Hi there 👋 😀💙🤍
 ## Starting in GitHub
-### Begginner Engineer きょは嬉しいです。
+##### Begginner Engineer きょは嬉しいです。
 
 <!--
 **Schulz911/Schulz911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
